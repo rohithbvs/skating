@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f5f0;
+    height: 50rem;
+}
+h1 {
+    text-align: center;
+}
+.section-dark {
+    background-color: #ECE5E3;
+    padding: 1rem;
+}
+.skate {
+    height: 10rem;
+}
+.log {
+    display: block;
+    margin: auto;
+}
+button.btn-col {
+    background-color: #EE231F;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
